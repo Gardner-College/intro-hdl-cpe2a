@@ -1,0 +1,6 @@
+|Xnor_Gates
+A => raznav.IN0
+B => raznav.IN1
+C <= raznav.DB_MAX_OUTPUT_PORT_TYPE
+
+
