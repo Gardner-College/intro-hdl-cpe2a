@@ -1,0 +1,18 @@
+//-----------------------------------------------------
+// Laboratory Experiment 001
+// Design Name : Or_Gates
+// File Name : Or_Gates.v
+// Function : Implement AND logic gate
+// Designer: Razel Navales
+// Period: Term 3 AY25-26
+//-----------------------------------------------------
+
+module Or_Gates(
+  input A,B,
+  output C
+  );
+  
+  // Gates type
+  or  raznav (C, A, B);
+
+endmodule
