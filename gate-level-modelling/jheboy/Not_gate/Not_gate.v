@@ -1,0 +1,18 @@
+//-----------------------------------------------------
+// Laboratory Experiment 001
+// Design Name : Not_gate
+// File Name : Not_gate.v
+// Function : Implement NOT logic gate
+// Designer: Jheboy B. Asid
+// Period: Term 3 AY25-26
+//-----------------------------------------------------
+
+module Not_gate(
+  input A,
+  output C
+  );
+  
+  // Gate type
+  not  Jheboy (C, A);
+
+endmodule

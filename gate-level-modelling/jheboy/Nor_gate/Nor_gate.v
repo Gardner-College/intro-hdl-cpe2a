@@ -1,0 +1,18 @@
+//-----------------------------------------------------
+// Laboratory Experiment 001
+// Design Name : Nor_gate
+// File Name : Nor_gate.v
+// Function : Implement NOR logic gate
+// Designer: Jheboy B. Asid
+// Period: Term 3 AY25-26
+//-----------------------------------------------------
+
+module Nor_gate(
+  input A,B,
+  output C
+  );
+  
+  // Gate type
+  nor  Jheboy (C, A, B);
+
+endmodule
