@@ -1,6 +1,0 @@
-|TriState_Buffer
-A => raznav.DATAIN
-EN => raznav.OE
-C <= raznav.DB_MAX_OUTPUT_PORT_TYPE
-
-

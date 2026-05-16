@@ -1,5 +1,0 @@
-|Buffer_Gates
-A => raznav.DATAIN
-C <= raznav.DB_MAX_OUTPUT_PORT_TYPE
-
-
