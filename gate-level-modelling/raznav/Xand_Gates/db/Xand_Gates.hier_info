@@ -1,0 +1,6 @@
+|Xand_Gates
+A => u_Xand_Gates.IN0
+B => u_Xand_Gates.IN1
+C <= u_Xand_Gates.DB_MAX_OUTPUT_PORT_TYPE
+
+
