@@ -18,5 +18,5 @@ module  assign_statement(
  wire  mux_out;
  //-------------Code Start-----------------
  assign mux_out = (sel) ? din_1 : din_0;
- 
+
 endmodule //End Of Module mux
