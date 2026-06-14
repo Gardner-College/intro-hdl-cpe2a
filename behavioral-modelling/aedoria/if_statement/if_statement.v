@@ -2,7 +2,7 @@
 // Design Name : if_statement
 // File Name   : if_statement.v
 // Function    : 2:1 Mux using If
-// Coder       : Dave DeBien
+// Coder       : Aj Kean Edoria
 //-----------------------------------------------------
 module  if_statement(
 din_0      , // Mux first input
