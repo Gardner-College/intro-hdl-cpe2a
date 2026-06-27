@@ -1,0 +1,6 @@
+|xor_gate
+A => Gelo.IN0
+B => Gelo.IN1
+C <= Gelo.DB_MAX_OUTPUT_PORT_TYPE
+
+
