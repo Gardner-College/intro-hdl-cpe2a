@@ -1,0 +1,6 @@
+|and_gate
+A => gelo.IN0
+B => gelo.IN1
+C << gelo.DB_MAX_OUTPUT_PORT_TYPE
+
+
