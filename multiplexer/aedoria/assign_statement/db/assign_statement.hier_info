@@ -1,0 +1,16 @@
+|assign_statement
+c0 => Y.IN1
+c1 => Y.IN1
+c2 => Y.IN1
+c3 => Y.IN1
+A => Y.IN0
+A => Y.IN0
+A => Y.IN0
+A => Y.IN0
+B => Y.IN1
+B => Y.IN1
+B => Y.IN1
+B => Y.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+

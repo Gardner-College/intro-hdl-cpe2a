@@ -1,0 +1,14 @@
+|if_statement
+c0 => Y.DATAB
+c1 => Y.DATAB
+c2 => Y.DATAB
+c3 => Y.DATAA
+A => always0.IN0
+A => always0.IN0
+A => always0.IN0
+B => always0.IN1
+B => always0.IN1
+B => always0.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+
