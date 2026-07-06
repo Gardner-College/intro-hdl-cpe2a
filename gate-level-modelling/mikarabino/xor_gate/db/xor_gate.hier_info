@@ -1,0 +1,6 @@
+|xor_gate
+A => mikarabino.IN0
+B => mikarabino.IN1
+C <= mikarabino.DB_MAX_OUTPUT_PORT_TYPE
+
+
