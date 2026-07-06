@@ -1,0 +1,20 @@
+// Laboratory Experiment 001
+// Design Name : xand_gate
+// File Name   : xand_gate.v
+// Function    : Implement XAND (XNOR) logic gate
+// Designer    : Ma. Mickaella V. Rabino
+// Period      : Term 3 AY25-26
+// ------------------------------------------------
+
+define xand xnor
+
+
+module xand_gate(
+    input A, B,
+    output C
+);
+
+// Gate type
+xand mikarabino (C, A, B);
+
+endmodule
